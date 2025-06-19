@@ -1,6 +1,8 @@
-streamlit>=1.22.0,<2.0.0
-numpy>=1.21.0,<2.0.0
-plotly>=5.5.0,<6.0.0
-shapely>=1.8.0,<2.0.0
-scipy>=1.7.0,<2.0.0
-ezdxf>=0.17.0,<2.0.0
+streamlit
+numpy
+plotly
+shapely
+scipy
+ezdxf
+pandas
+matplotlib
